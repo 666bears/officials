@@ -26,13 +26,12 @@ Tomcat环境：Tomcat 7.x,8.x,9.x版本均可
 项目管理：Maven
 
 #### 四、运行截图（点图片可放大）
-![1684753894018](https://github.com/666bears/officials/assets/143094776/99778e23-76ab-4317-a547-b94e4199e135)
-![1684753443376](https://github.com/666bears/officials/assets/143094776/77c4a6cb-e85c-44d8-8ae7-851d8075bd9b)
-![1684753405107](https://github.com/666bears/officials/assets/143094776/bfc502ed-0305-43ba-9bea-3767e928455d)
-![1684753383092](https://github.com/666bears/officials/assets/143094776/e5555c30-1b99-4177-b66f-447824370578)
-![1684753185585](https://github.com/666bears/officials/assets/143094776/d84e968f-d5a3-4be2-a6c1-e616143e0102)
-![1684753163152](https://github.com/666bears/officials/assets/143094776/22048177-5285-478d-8e3b-a9e7a8ea703f)
-
+![1684753894018](https://github.com/666bears/officials/assets/143094776/d5b5a78f-aaab-4d38-9ea2-88da6aa293d7)
+![1684753163152](https://github.com/666bears/officials/assets/143094776/c5199ea3-1126-4b0e-9302-718e62784e61)
+![1684753185585](https://github.com/666bears/officials/assets/143094776/c21edcb7-e285-4880-9236-eed642196748)
+![1684753383092](https://github.com/666bears/officials/assets/143094776/2fddd099-550a-4a8e-bbca-87990c9f4d81)
+![1684753405107](https://github.com/666bears/officials/assets/143094776/67740cf1-4ff6-4549-b399-6e13283c60d7)
+![1684753443376](https://github.com/666bears/officials/assets/143094776/47b959c7-d60a-4b45-9f38-3edf8f8b3916)
 
 
 #### 五、安装教程
